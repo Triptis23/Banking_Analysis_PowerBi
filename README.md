@@ -91,7 +91,15 @@ Total Loan =
 - Publish dashboard to **Power BI Service** for online sharing  
 
 ---
-
+## Snapshot 
+home:
+![Dashboard Screenshot](https://github.com/Triptis23/Banking_Analysis_PowerBi/blob/main/Snapshot/Home_page%20screenshot.png)
+loan: 
+![Dashboard Screenshot](
+deposit
+![Dashboard Screenshot](https://github.com/Triptis23/Banking_Analysis_PowerBi/blob/main/Snapshot/loan_analysis_screenshot)
+summary :
+![Dashboard Screenshot](https://github.com/Triptis23/Banking_Analysis_PowerBi/blob/main/Snapshot/summary.png)
 ## 👩‍💻 Author
 **Tripti Singh** — Data Analyst & Power BI Developer  
 📧 [triptisingh2305@gmail.com](mailto:triptisingh2305@gmail.com)  
