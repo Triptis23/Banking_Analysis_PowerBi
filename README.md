@@ -95,7 +95,7 @@ Total Loan =
 home:
 ![Dashboard Screenshot](https://github.com/Triptis23/Banking_Analysis_PowerBi/blob/main/Snapshot/Home_page%20screenshot.png)
 Loan analysis:
-![Dashboard Screenshot](
+![Dashboard Screenshot](https://github.com/Triptis23/Banking_Analysis_PowerBi/blob/main/Snapshot/loan_analysis_screenshot.png)
 Deposit analysis:
 ![Dashboard Screenshot](https://github.com/Triptis23/Banking_Analysis_PowerBi/blob/main/Snapshot/deposit_analysis%20screenshot.png)
 
