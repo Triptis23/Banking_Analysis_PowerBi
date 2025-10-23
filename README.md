@@ -94,10 +94,11 @@ Total Loan =
 ## Snapshot 
 home:
 ![Dashboard Screenshot](https://github.com/Triptis23/Banking_Analysis_PowerBi/blob/main/Snapshot/Home_page%20screenshot.png)
-loan: 
+Loan analysis:
 ![Dashboard Screenshot](
-deposit
-![Dashboard Screenshot](https://github.com/Triptis23/Banking_Analysis_PowerBi/blob/main/Snapshot/loan_analysis_screenshot)
+Deposit analysis:
+![Dashboard Screenshot](https://github.com/Triptis23/Banking_Analysis_PowerBi/blob/main/Snapshot/deposit_analysis%20screenshot.png)
+
 summary :
 ![Dashboard Screenshot](https://github.com/Triptis23/Banking_Analysis_PowerBi/blob/main/Snapshot/summary.png)
 ## 👩‍💻 Author
