@@ -77,7 +77,7 @@ Ensured responsive layout and professional design aesthetics
 File	Description
 banking_eda.ipynb	Jupyter Notebook containing Python-based data exploration
 
-banking_dashboard.pbit	Power BI template file of the interactive dashboard
+powerbi_dashboard.pbit	Power BI template file of the interactive dashboard
 
 README.md	Documentation of the project
 
